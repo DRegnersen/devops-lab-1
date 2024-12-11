@@ -1,2 +1,2 @@
-# devops-lab-1
-Devops first lab — Denis Dubovikov, Daniil Kurepin
+# devops-labs
+Devops labs — Denis Dubovikov, Daniil Kurepin (M34031)
